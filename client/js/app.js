@@ -1,3 +1,4 @@
+/* eslint-disable */
 import keyMirror from 'key-mirror';
 import { createStore, bindActionCreators, applyMiddleware } from 'redux';
 import { connect, Provider } from 'react-redux';
